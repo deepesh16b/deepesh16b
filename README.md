@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://deepesh16b.github.io/personal-website/](https://deepesh16b.github.io/personal-website/)
+- 👨‍💻 All of my projects are available at [https://deepesh16b.github.io/portfolio/](https://deepesh16b.github.io/portfolio/)
 
 - 📫 How to reach me **deepeshbhardwaj58@gmail.com**
 
