@@ -12,11 +12,10 @@
 
 - 👨‍💻 All of my projects are available at [my website](https://deepesh16b.github.io/portfolio/)
 
-- 📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
-
+- 📝 I actively post on LinkedIn <a href="https://linkedin.com/in/deepesh16b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepesh16b" height="14" width="14" /></a>
 - 📫 How to reach me **deepeshbhardwaj58@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://twitter.com/deepesh_b_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepesh_b_16" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepesh16b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepesh16b" height="30" width="40" /></a>
