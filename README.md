@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi <br> I'm Deepesh Bhardwaj</h1>
 
-<h3 >A passionate Full Stack Developer from India</h3>
-
 <img align="right" alt="Coding" width="360" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
+<h3 >A passionate Full Stack Developer from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -20,7 +20,7 @@
 
 </p>
 
-### Languages and Tools:
+## Languages and Tools:
 <p align="left" style="margin: 0 5px;"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
