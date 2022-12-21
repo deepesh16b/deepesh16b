@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
--👯 I’m looking to collaborate on different projects
+- 👯 I’m looking to collaborate on different projects
 
-- 👨‍💻 All of my projects are available at [https://deepesh16b.github.io/portfolio/](https://deepesh16b.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://deepesh16b.github.io/portfolio/](my website)
 
-- 📝 I actively post on LinkedIn [![LinkedIn][https://linkedin.com/in/deepesh16b]][]
+- 📝 I actively post on LinkedIn [https://linkedin.com/in/deepesh16b]][<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepesh16b" height="15" width="15" />]
 
 - 📫 How to reach me **deepeshbhardwaj58@gmail.com**
 
