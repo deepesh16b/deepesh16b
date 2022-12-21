@@ -1,6 +1,6 @@
 [![MasterHead](/banner.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, <br> I'm Deepesh Bhardwaj</h1>
+<h1 align="center">Hi <br> I'm Deepesh Bhardwaj</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
