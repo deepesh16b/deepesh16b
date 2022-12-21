@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **deepeshbhardwaj58@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
