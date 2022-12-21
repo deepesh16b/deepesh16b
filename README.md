@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi <br> I'm Deepesh Bhardwaj</h1>
 
-<img align="right" alt="Coding" width="360" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+## A passionate Full Stack Developer from India
 
-<h3 >A passionate Full Stack Developer from India</h3>
+<img align="right" alt="Coding" width="360" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
 
