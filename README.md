@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=deepesh16b&label=Profile%20views&color=6805D3&style=flat" alt="deepesh16b" />
- &emsp
+ <p>&emsp</p>
  <a href="https://github.com/deepesh16b?tab=followers">
   <img src="https://img.shields.io/github/followers/deepesh16b.svg?style=social&label=Follow" alt="deepesh16b" />
  </a>
