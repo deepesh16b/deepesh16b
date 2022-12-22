@@ -1,8 +1,6 @@
 [![MasterHead](/banner.gif)](https://rishavchanda.io)
 
-![](https://komarev.com/ghpvc/?username=deepesh16b&style=flat&color=blue)
-
-<img alt="" src="https://img.shields.io/github/repo-size/deepesh16b/deepesh16b" />
+![](https://komarev.com/ghpvc/?username=deepesh16b&style=flat&color=blueviolet) <img alt="" src="https://img.shields.io/github/repo-size/deepesh16b/deepesh16b" />
 
 <h1 align="center" font-color="green">Hi, I'm Deepesh Bhardwaj</h1 >
 
@@ -26,6 +24,10 @@
 <a href="https://linkedin.com/in/deepesh16b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepesh16b" height="30" width="40" /></a>
 <a href="https://instagram.com/deepesh_b_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepesh_b_16" height="30" width="40" /></a>
 
+  <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+ 
 </p>
 
 ## Languages and Tools:
