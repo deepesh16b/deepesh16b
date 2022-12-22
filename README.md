@@ -2,7 +2,7 @@
 
 <!-- h1 align="center">Hi <br> I'm Deepesh Bhardwaj</h1 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Deepesh+Bhardwaj)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4500&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Deepesh+Bhardwaj)](https://git.io/typing-svg)
 
 ## A passionate Full Stack Developer from India
 
