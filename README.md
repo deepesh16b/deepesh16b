@@ -5,9 +5,9 @@
  <img alt="" src="https://img.shields.io/github/repo-size/deepesh16b/deepesh16b" />
 </p>
 
-<h1 align="center" >Hi, I'm <a href="https://linkedin.com/in/deepesh16b" target="_blank">Deepesh Bhardwaj </a> </h1>
+<h1 align="center" >Hi, I'm <a href="https://linkedin.com/in/deepesh16b" target="_blank">Deepesh Bhardwaj </a> </h1> <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&multiline=true&width=700&lines=A+passionate+Full+Stack+Developer+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&color=89E1FF&multiline=true&width=700&lines=A+passionate+Full+Stack+Developer+from+India)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="360" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
@@ -20,6 +20,7 @@
 - 📝 I actively post on LinkedIn [deepesh16b]([https://deepesh16b.github.io/portfolio/](https://www.linkedin.com/in/deepesh16b/))
  
 - 📫 How to reach me **deepeshbhardwaj58@gmail.com**
+<br>
 
 ## Connect with me:
 
