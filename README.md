@@ -2,7 +2,9 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=deepesh16b&label=Profile%20views&color=6805D3&style=flat" alt="deepesh16b" />
- [![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/deepesh16b?tab=followers)
+ <a href="https://github.com/deepesh16b?tab=followers">
+  <img src="https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow" alt="deepesh16b" />
+ </a>
  <img alt="" src="https://img.shields.io/github/repo-size/deepesh16b/deepesh16b" />
 </p>
 
