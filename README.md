@@ -43,5 +43,50 @@
 </p>
 
 # GitHub Stats 📈
+<a href="https://github.com/rahulkarda/rahulkarda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh16b&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepesh16b)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/rahulkarda/rahulkarda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepesh16b&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
+</a>
+<br><br>
+
+<a href="https://github.com/rahulkarda/rahulkarda">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepesh16b&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Rahul's GitHub Stats Graph"/>
+</a>
+<br><br>
+
+<a href="https://github.com/rahulkarda/rahulkarda">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepesh16b&theme=dark" alt="Rahul's GitHub Streak Stats"/>
+</a>
+<br><br>
+
+<a href="https://github.com/rahulkarda/rahulkarda">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=deepesh16b&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Rahul's GitHub Contributions Graph"/>
+</a>
+<br><br>
+
+<a href="https://github.com/rahulkarda/NFT-Portal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepesh16b&repo=NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/rahulkarda/Wave-Portal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepesh16b&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/rahulkarda/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepesh16b&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/rahulkarda/NASA-APOD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepesh16b&repo=NASA-APOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/rahulkarda/Web-Postman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepesh16b&repo=Web-Postman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<a href="https://github.com/rahulkarda/IP-Address_Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepesh16b&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<br><br>
