@@ -19,13 +19,18 @@
 - 📫 How to reach me **deepeshbhardwaj58@gmail.com**
 
 ## Connect with me:
-<p align="left">
-<a href="https://twitter.com/deepesh_b_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepesh_b_16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepesh16b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepesh16b" height="30" width="40" /></a>
-<a href="https://instagram.com/deepesh_b_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepesh_b_16" height="30" width="40" /></a>
 
-  <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <a href="[https://linkedin.com/in/deepesh16b]">
+    <img src="logo/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="[https://twitter.com/deepesh_b_16]">
+    <img src="logo/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="[https://instagram.com/deepesh_b_16]">
+    <img src="logo/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="mailto:deepeshbhardwaj58@gmail.com">
+    <img src="logo/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
  
 </p>
@@ -69,6 +74,12 @@
   </a> 
  <a href="#">
     <img src="logo/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="logo/npm.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="logo/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
 </p>
 
