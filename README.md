@@ -1,12 +1,16 @@
 [![MasterHead](/banner.gif)](https://rishavchanda.io)
+
 <p align="center">
-![](https://komarev.com/ghpvc/?username=deepesh16b&style=flat&color=blueviolet) <img alt="" src="https://img.shields.io/github/repo-size/deepesh16b/deepesh16b" />
+![](https://komarev.com/ghpvc/?username=deepesh16b&style=flat&color=blueviolet) 
+ <img alt="" src="https://img.shields.io/github/repo-size/deepesh16b/deepesh16b" />
 </p>
+
 <h1 align="center" >Hi, I'm <a href="https://linkedin.com/in/deepesh16b" target="_blank">Deepesh Bhardwaj </a> </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&multiline=true&width=700&lines=A+passionate+Full+Stack+Developer+from+India)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="360" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on different projects
