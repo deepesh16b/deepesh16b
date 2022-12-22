@@ -1,6 +1,6 @@
 [![MasterHead](/banner.gif)](https://rishavchanda.io)
 
-<h1 align="center" font-color="green">Hi <br> I'm Deepesh Bhardwaj</h1 >
+<h1style="color:Tomato;" align="center" font-color="green">Hi <br> I'm Deepesh Bhardwaj</h1 >
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&multiline=true&width=700&lines=A+passionate+Full+Stack+Developer+from+India)](https://git.io/typing-svg)
 
@@ -40,7 +40,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &emsp;
 </p>
 
-# GitHub Stats 📈
+## GitHub Stats 📈
 <a href="https://github.com/deepesh16b/deepesh16b">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh16b&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
