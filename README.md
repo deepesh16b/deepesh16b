@@ -61,6 +61,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepesh16b&theme=dark" alt="Deepesh's GitHub Streak Stats"/>
 </a>
 <br><br>
-
-
-<br><br>
+[![An image of @deepesh16b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepesh16b)](https://holopin.io/@deepesh16b)
