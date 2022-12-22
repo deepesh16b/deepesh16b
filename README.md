@@ -20,6 +20,7 @@
 
 ## Connect with me:
 
+<p align="left" style="margin: 0 5px;">
   <a href="[https://linkedin.com/in/deepesh16b]">
     <img src="logo/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
