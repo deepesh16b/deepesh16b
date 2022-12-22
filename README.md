@@ -1,7 +1,7 @@
 [![MasterHead](/banner.gif)](https://rishavchanda.io)
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=deepesh16b&style=flat&color=blueviolet) 
+<img src="https://komarev.com/ghpvc/?username=deepesh16b&label=Profile%20views&color=6805D3&style=flat" alt="deepesh16b" />
  <img alt="" src="https://img.shields.io/github/repo-size/deepesh16b/deepesh16b" />
 </p>
 
