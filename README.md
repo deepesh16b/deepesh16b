@@ -1,10 +1,10 @@
 [![MasterHead](/banner.gif)](https://rishavchanda.io)
 
-<h1 align="center" font-color="green">Hi <br> I'm Deepesh Bhardwaj</h1 >
+![](https://komarev.com/ghpvc/?username=deepesh16b&style=flat&color=blue)
+
+<h1 align="center" font-color="green">Hi, I'm Deepesh Bhardwaj</h1 >
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&multiline=true&width=700&lines=A+passionate+Full+Stack+Developer+from+India)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=deepesh16b&style=flat&color=blue)
 
 <img align="right" alt="Coding" width="360" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
