@@ -13,11 +13,11 @@
 
 <img align="right" alt="Coding" width="360" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently improving my skills in **Web Development**
 
 - 👯 I’m looking to collaborate on different projects
 
-- 👨‍💻 All of my projects are available at [my website](https://deepesh16b.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at **[My Website]**(https://deepesh16b.netlify.app)
 
 - 📝 I actively post on LinkedIn [deepesh16b]([https://deepesh16b.github.io/portfolio/](https://www.linkedin.com/in/deepesh16b/))
  
