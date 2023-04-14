@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on different projects
 
-- 👨‍💻 All of my projects are available at **[My Website]**(https://deepesh16b.netlify.app)
+- 👨‍💻 All of my projects are available at **[My Website](https://deepesh16b.netlify.app)**
 
 - 📝 I actively post on LinkedIn [deepesh16b]([https://deepesh16b.github.io/portfolio/](https://www.linkedin.com/in/deepesh16b/))
  
