@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Website](https://deepesh16b.netlify.app)**
 
-- 📝 I actively post on LinkedIn [deepesh16b]([https://deepesh16b.github.io/portfolio/](https://www.linkedin.com/in/deepesh16b/))
+- 📝 I actively post on LinkedIn **[deepesh16b](https://www.linkedin.com/in/deepesh16b/)**
  
 - 📫 How to reach me **deepeshbhardwaj58@gmail.com**
 <br>
