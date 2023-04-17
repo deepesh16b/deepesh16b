@@ -92,6 +92,13 @@
 </p>
 <br>
 
+<!--Final do Contador de Visitas-->   
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{deepesh16b}/count.svg" /></p> 
+<br>
+</div>
+
 ## GitHub Stats 📈
 <a href="https://github.com/deepesh16b/deepesh16b">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh16b&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
