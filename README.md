@@ -7,6 +7,12 @@
  </a>
 </p>
 
+<!--Final do Contador de Visitas-->   
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{deepesh16b}/count.svg" /></p> 
+<br>
+</div>
 <h1 align="center" >Hi, I'm <a href="https://linkedin.com/in/deepesh16b" target="_blank">Deepesh Bhardwaj <br> </a> </h1> <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&color=89E1FF&multiline=true&width=700&lines=A+passionate+Full+Stack+Developer+from+India)](https://git.io/typing-svg)
@@ -91,13 +97,6 @@
   </a> 
 </p>
 <br>
-
-<!--Final do Contador de Visitas-->   
-<div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{deepesh16b}/count.svg" /></p> 
-<br>
-</div>
 
 ## GitHub Stats 📈
 <a href="https://github.com/deepesh16b/deepesh16b">
