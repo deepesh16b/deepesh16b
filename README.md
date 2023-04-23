@@ -118,8 +118,6 @@
 </a>
 <br><br>
 
-![Lovelyo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepesh16b) | ![Lovelyo's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=deepesh16b)
-
 ## Badges 🚀
 
 [![An image of @deepesh16b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepesh16b)](https://holopin.io/@deepesh16b)
