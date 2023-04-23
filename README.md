@@ -118,6 +118,7 @@
 </a>
 <br><br>
 
+![Lovelyo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deepesh16b) | ![Lovelyo's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=deepesh16b)
 
 ## Badges 🚀
 
