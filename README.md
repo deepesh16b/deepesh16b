@@ -107,7 +107,7 @@
       <h3 align="center">Flipkart Clone</h3>
         <br />
         <a target="_blank" href="http://flipkart3.netlify.app">
-            <img src="images/flipkartScreen.png" width="100%" alt="Flipkart Clone"/>
+            <img src="images/flipkart.jpeg" width="100%" alt="Flipkart Clone"/>
         </a>
         <br />
         <p align="center">
@@ -125,7 +125,7 @@
       <h3 align="center">Netflix Clone</h3>
         <br />
       <a target="_blank" href="https://netflix-29a21.web.app/">
-            <img src="images/netflixScreen.png" width="100%"  alt="Netflix Clone"/>
+            <img src="images/netflix.jpeg" width="100%"  alt="Netflix Clone"/>
         </a>
         <br />
         <p align="center">
