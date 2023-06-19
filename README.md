@@ -164,7 +164,7 @@
   <h3 align="center">Portfolio</h3>
   <br />
     <a target="_blank" href="https://deepesh16b.netlify.app">
-      <img src="image/portfolio.png" width="100%" alt="Portfolio"/>
+      <img src="images/portfolio.png" width="100%" alt="Portfolio"/>
     </a>
   <br />
     <p align="center">
