@@ -98,6 +98,71 @@
 </p>
 <br>
 
+# Projects ⚙️
+<!-- <h1 align="center">Projects</h1> -->
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Flipkart Clone</h3>
+        <br />
+        <a target="_blank" href="http://flipkart3.netlify.app">
+            <img src="images/flipkartScreen.png" width="100%" alt="Flipkart Clone"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/deepesh16b/flipkart-clone" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://flipkart3.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Redux, Node, EJS, MongoDB, etc.</strong> - A clone of the Flipkart website built with React, Redux, Node, EJS, and MongoDB.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Netflix Clone</h3>
+        <br />
+      <a target="_blank" href="https://netflix-29a21.web.app/">
+            <img src="images/netflixScreen.png" width="100%"  alt="Netflix Clone"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/deepesh16b/Netflix-Clone" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://netflix-29a21.web.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Redux, MongoDB, etc.</strong> - A clone of the Netflix website built with React, Redux, and MongoDB.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Blog Website</h3>
+      <br />
+        <a target="_blank" href="https://blogwebapp-tslk.onrender.com/">
+          <img src="images/blogwebsite.png" width="100%" alt="Blog Website"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/deepesh16b/Blog-WebApp" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://blogwebapp-tslk.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Node, EJS, MongoDB, etc.</strong> - A blog website where users can create and manage their own blogs
+
+
+
+
 ## GitHub Stats 📈
 <a href="https://github.com/deepesh16b/deepesh16b">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh16b&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
