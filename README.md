@@ -158,8 +158,30 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Node, EJS, MongoDB, etc.</strong> - A blog website where users can create and manage their own blogs
+        <p><strong>Node, EJS, MongoDB, etc.</strong> - A blog website where users can create and manage their own blogs.</p>
+</td>
+   <td width="50%" valign="top">
+  <h3 align="center">Portfolio</h3>
+  <br />
+    <a target="_blank" href="https://deepesh16b.netlify.app">
+      <img src="image/portfolio.png" width="100%" alt="Portfolio"/>
+    </a>
+  <br />
+    <p align="center">
+      <br>
+      <a href="https://github.com/deepesh16b/portfolio-2.0" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+      </a>
+      <a href="https://deepesh16b.netlify.app" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+      </a>
+  </p>
+    <p><strong>Used React and more</strong> - Portfolio website showcasing your projects and skills.</p>
+</td>
 
+  </tr>
+  
+</table>
 
 
 
