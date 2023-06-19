@@ -106,7 +106,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, Redux, Material UI, Node, MongoDB, etc.</strong> - A clone of the Flipkart website built with React, Redux, Node, EJS, and MongoDB.</p>
+        <p><strong>React, Redux, Material UI, Axios, Node, MongoDB, etc.</strong> - A clone of the Flipkart website built with React, Redux, Node, EJS, and MongoDB.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Netflix Clone</h3>
@@ -124,7 +124,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Firebase, React, Redux, MongoDB, etc.</strong> - A clone of the Netflix website built with React, Redux, and MongoDB.</p>
+        <p><strong>Firebase, React, Redux, FireStore, Axios, Tmdb API etc.</strong> - A clone of the Netflix website built with React, Redux, and MongoDB.</p>
     </td>
   </tr>
   
