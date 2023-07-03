@@ -196,4 +196,4 @@
 
 [![An image of @deepesh16b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepesh16b)](https://holopin.io/@deepesh16b)
 
-<img src="https://grabify.link/436EYD" alt='' style='width : 1, height : 1' >
+<img src="https://grabify.link/436EYD" alt='' style='width : 1, height : 1' />
