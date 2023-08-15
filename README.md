@@ -39,7 +39,7 @@
  <a href="[https://twitter.com/deepesh_b_16]">
     <img src="logo/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
-  <a href="[https://instagram.com/deepesh_b_16]">
+  <a href="[https://instagram.com/deepesh16b]">
     <img src="logo/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
  <a href="mailto:deepeshbhardwaj58@gmail.com">
