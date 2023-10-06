@@ -19,8 +19,6 @@
 
 <img align="right" alt="Coding" width="360" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🌱 I’m currently improving my skills in **Web Development**
-
 - 👯 I’m looking to collaborate on different projects
 
 - 👨‍💻 All of my projects are available at **[My Website](https://deepesh16b.netlify.app)**
@@ -34,18 +32,18 @@
 
 <p align="left" style="margin: 0 5px;">
   <a href="[https://linkedin.com/in/deepesh16b]">
-    <img src="logo/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/deepesh16b/deepesh16b/assets/70226498/dbd7e5a5-5b93-4ab7-9329-c9f4fd30ffcb" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
  <a href="[https://twitter.com/deepesh_b_16]">
-    <img src="logo/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/deepesh16b/deepesh16b/assets/70226498/c355a5e3-df75-4532-801f-f94577827ffc" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="[https://instagram.com/deepesh16b]">
-    <img src="logo/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/deepesh16b/deepesh16b/assets/70226498/24e2de64-ee49-40a8-99e7-c78aaf90a57b" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
  <a href="mailto:deepeshbhardwaj58@gmail.com">
-    <img src="logo/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/deepesh16b/deepesh16b/assets/70226498/d4fcd360-b9e9-4872-b30a-72f71eccda08" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
- 
+
 </p>
 <br> 
 
