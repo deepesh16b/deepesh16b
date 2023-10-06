@@ -1,5 +1,4 @@
-
-<img src="./banner.gif" alt="banner" />
+![banner](https://github.com/deepesh16b/deepesh16b/assets/70226498/f1f851db-fc55-4ec5-b707-50b130dba85d)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=deepesh16b&label=Profile%20views&color=6805D3&style=flat" alt="deepesh16b" />
