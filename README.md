@@ -48,39 +48,24 @@
 <br> 
 
 ## Languages and Tools 🛠
-<p align="left" style="margin: 0 5px;"> 
-  
-  <a href="#">
-    <img src="logo/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
- <a href="#">
-    <img src="logo/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
- <a href="#">
-    <img src="logo/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
- <a href="#">
-    <img src="logo/bootstrap.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
- <a href="#">
-    <img src="logo/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
- <a href="#">
-    <img src="logo/jquery.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
- <a href="#">
-    <img src="logo/nodejs_larger.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
- <a href="#">
-    <img src="logo/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="logo/npm.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
- <a href="#">
-    <img src="logo/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
-</p>
+
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
 <br>
 
 ## Projects 🚀
