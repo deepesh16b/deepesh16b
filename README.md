@@ -1,5 +1,5 @@
 
-<img src="/banner.gif" alt="banner" />
+<img src="./banner.gif" alt="banner" />
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=deepesh16b&label=Profile%20views&color=6805D3&style=flat" alt="deepesh16b" />
