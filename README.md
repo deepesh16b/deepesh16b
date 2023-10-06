@@ -94,7 +94,7 @@
       <h3 align="center">Flipkart Clone</h3>
         <br />
         <a target="_blank" href="http://flipkart3.netlify.app">
-            <img src="images/flipkart.jpeg" width="100%" alt="Flipkart Clone"/>
+            <img src="https://github.com/deepesh16b/deepesh16b/assets/70226498/110c388e-216f-42b8-ba6a-dbf7605542a7" width="100%" alt="Flipkart Clone"/>
         </a>
         <br />
         <p align="center">
@@ -112,8 +112,7 @@
       <h3 align="center">Netflix Clone</h3>
         <br />
       <a target="_blank" href="https://netflix-29a21.web.app/">
-            <img src="images/netflix.jpeg" width="100%"  alt="Netflix Clone"/>
-        </a>
+            <img src="https://github.com/deepesh16b/deepesh16b/assets/70226498/924bcd59-e5a2-4d26-9770-ca71fddfa525" width="100%"  alt="Netflix Clone"/>
         <br />
         <p align="center">
    <br>
@@ -133,7 +132,7 @@
       <h3 align="center">Blog Website</h3>
       <br />
         <a target="_blank" href="https://blogwebapp-tslk.onrender.com/">
-          <img src="images/blogwebsite.png" width="100%" alt="Blog Website"/>
+          <img src="https://github.com/deepesh16b/deepesh16b/assets/70226498/4b519c92-616a-49a8-bf86-cda846664b56" width="100%" alt="Blog Website"/>
         </a>
       <br />
         <p align="center">
@@ -151,7 +150,7 @@
   <h3 align="center">Portfolio Website</h3>
   <br />
     <a target="_blank" href="https://deepesh16b.netlify.app">
-      <img src="images/portfolio.png" width="100%" alt="Portfolio"/>
+      <img src="https://github.com/deepesh16b/deepesh16b/assets/70226498/34bc7ee1-9a01-4983-802c-31afff3c2a50" width="100%" alt="Portfolio"/>
     </a>
   <br />
     <p align="center">
