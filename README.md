@@ -74,7 +74,7 @@
   <br />
     <p align="center">
       <br>
-      <a href="https://github.com/bellacaio16/medimate-next.js" target="_blank">
+      <a href="https://github.com/deepesh16b/medimate-next.js" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
       </a>
       <a href="https://medimate-rho.vercel.app/" target="_blank">
@@ -92,7 +92,7 @@
       <br />
         <p align="center">
           <br>
-  <a href="https://github.com/bellacaio16/LibraryHub" target="_blank">
+  <a href="https://github.com/deepesh16b/LibraryHub" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://libraryhub16.netlify.app/" target="_blank">
@@ -114,7 +114,7 @@
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/bellacaio16/flipkart-clone" target="_blank">
+  <a href="https://github.com/deepesh16b/flipkart-clone" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://ecommerce16.netlify.app/" target="_blank">
@@ -131,7 +131,7 @@
         <br />
         <p align="center">
    <br>
-  <a href="https://github.com/bellacaio16/Netflix-Clone" target="_blank">
+  <a href="https://github.com/deepesh16b/Netflix-Clone" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://netflix-29a21.web.app/" target="_blank">
