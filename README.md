@@ -11,13 +11,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&color=89E1FF&multiline=true&width=700&lines=A+passionate+Full+Stack+Developer+from+India)](https://git.io/typing-svg)
 
-- 👷 Currently pursuing B.Tech in CSE(2021-2025) from LNCT, Bhopal.
+- 👷 Currently pursuing B.Tech in CSE (2021-2025) from LNCT, Bhopal.
   
-- 🔭 Schooled from PCM with Computer stream from Jawaharlal Nehru School - 92%
+- 🔭 Schooled from PCM with Computer stream from Jawaharlal Nehru School - 92%.
 
 - 👨‍💻 All of my projects are available at **[My Website](https://bellacaio16.netlify.app)**
 
-- 💬 Ask me about CP/DSA/FULL-STACK
+- 💬 Ask me about CP/DSA/FULL-STACK.
  
 - 📫 How to reach me **deepeshbhardwaj58@gmail.com**
 <br>
