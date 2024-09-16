@@ -15,6 +15,8 @@
 <img align="right" alt="Coding" width="360" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 - 👷 Currently pursuing B.Tech in CSE(2021-2025) from LNCT, Bhopal.
+- 
+- 🔭 Schooled from PCM with Computer stream from Jawaharlal Nehru School - 92%
 
 - 👨‍💻 All of my projects are available at **[My Website](https://bellacaio16.netlify.app)**
 
