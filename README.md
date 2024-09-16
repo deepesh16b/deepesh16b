@@ -26,23 +26,32 @@
 ## Connect with me⚡
 
 <p align="left" style="margin: 0 5px;">
-<!--   <a href="https://linkedin.com/in/deepesh16b">
-    <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/da3b8064-038d-498b-a79e-b61ae4de6092" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <a href="https://linkedin.com/in/deepesh16b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="https://instagram.com/deepesh16b">
-    <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/bcbadbb6-12c3-40e4-bfe7-21b085b288d1" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
- <a href="mailto:deepeshbhardwaj58@gmail.com">
+<!--  <a href="mailto:deepeshbhardwaj58@gmail.com">
     <img src="https://github.com/bellacaio16/bellacaio16/assets/147348222/0455c2c5-50ff-49eb-83d1-74376859427a" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  -->
-[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh16b/)
+ <a href="https://www.codechef.com/users/deepesh16b">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="https://codeforces.com/profile/deepesh16b">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="https://leetcode.com/deepesh16b/">
+    <img src="https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+<!-- [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh16b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepesh16b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/deepesh16b)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/deepesh16b)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/deepesh16b) 
 [![Leetcode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/deepesh16b/) 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/deepesh16b)
-
+ -->
 </p>
 <br> 
 
