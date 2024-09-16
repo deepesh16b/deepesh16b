@@ -14,11 +14,11 @@
 
 <img align="right" alt="Coding" width="360" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 👯 I’m looking to collaborate on different projects
+- 👷 Currently pursuing B.Tech in CSE(2021-2025) from LNCT, Bhopal.
 
 - 👨‍💻 All of my projects are available at **[My Website](https://bellacaio16.netlify.app)**
 
-- 📝 I actively post on LinkedIn **[deepesh16b](https://www.linkedin.com/in/deepesh16b/)**
+- 💬 Ask me about CP/DSA/FULL-STACK
  
 - 📫 How to reach me **deepeshbhardwaj58@gmail.com**
 <br>
@@ -44,18 +44,8 @@
  <a href="https://leetcode.com/deepesh16b/">
     <img src="https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
-<!-- [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh16b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepesh16b/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/deepesh16b)
-[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/deepesh16b)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/deepesh16b) 
-[![Leetcode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/deepesh16b/) 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/deepesh16b)
- -->
 </p>
 <br> 
-
-
 ## Languages and Tools 🛠
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen)
